@@ -1,0 +1,1 @@
+ALTER TABLE `leads` ADD `more_info` integer DEFAULT 0 NOT NULL;
